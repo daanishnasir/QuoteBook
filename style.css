@@ -1,0 +1,29 @@
+body{
+  background-color: #F4FFFB;
+  font-family: Times;
+}
+
+
+li{
+list-style-type: none;
+font-size: 20px;
+height: 12vh;
+text-align: right;
+
+
+}
+
+
+.quoteContainer{
+  /*display: flex;
+  justify-content: space-around;*/
+}
+
+
+.theAuthor{
+  color: grey;
+}
+
+h1{
+  text-align: right;
+}
